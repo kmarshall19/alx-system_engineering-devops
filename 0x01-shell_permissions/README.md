@@ -1,0 +1,1 @@
+this folder is meant for scripts written for the Shell Permissions Project
