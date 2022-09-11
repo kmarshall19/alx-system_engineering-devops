@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Alcatraz' | tr 'Ac' 'Ze'
+echo 'Alcatraz' | tr Ac Ze
